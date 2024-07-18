@@ -1,7 +1,7 @@
 import yaml
 import xml.etree.ElementTree as xml_tree
 
-with open('feed.yaml', 'r') as file:
+with open('doc.yaml', 'r') as file:
     yaml_data = yaml.safe_load(file)
 
     xml_element = xml_tree.Element('xml')
@@ -24,4 +24,4 @@ for item in yaml_data['item']:
 
 
 output_tree = xml_tree.ElementTree(xml_element)
-output_tree.write('podcast.xml', encoding='UTF-8', xml_declaration=True)
+output_tree.write('doc.xml', encoding='UTF-8', xml_declaration=True)
