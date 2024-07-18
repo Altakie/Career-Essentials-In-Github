@@ -9,4 +9,5 @@ A repository I'm using to acquire GitHub skills and get the Career Essentials in
 
 ## Picture of a cat dragon
 > Picture of a cat dragon, because cats are cool and dragons are cute... wait... because cats are dragons and cool is cute
-![A cat with dragon wings](https://preview.redd.it/the-dragon-cat-v0-bsj0evehrcja1.png?width=640&crop=smart&auto=webp&s=d7a3bcb7219610fc54e1baa92ffb11a55d89ece4)
+
+![A cat with dragon wings](./dragon-cat)
