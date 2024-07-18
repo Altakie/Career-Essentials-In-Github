@@ -10,4 +10,4 @@ A repository I'm using to acquire GitHub skills and get the Career Essentials in
 ## Picture of a cat dragon
 > Picture of a cat dragon, because cats are cool and dragons are cute... wait... because cats are dragons and cool is cute
 
-![A cat with dragon wings](./dragon-cat)
+![A cat with dragon wings](./images/dragon-cat.webp)
